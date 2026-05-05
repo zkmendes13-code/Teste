@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http:/mts.pshnet.shop/$1"
+    }
+  ]
+}
